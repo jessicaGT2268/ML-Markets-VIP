@@ -15,3 +15,4 @@ Authors: Henry Zhang, Priyanshu Mehta, Giovanni Hsu, Vic Wang, Rachel Yuh, Randa
 1. AlphaVantage <https://www.alphavantage.co/>
 2. Yahoo Finance <https://github.com/ranaroussi/yfinance>
 3. Alpaca <https://github.com/alpacahq/alpaca-trade-api-python>
+4. Google Finance
